@@ -23,7 +23,7 @@ timezone: America/Mexico_City
 
 title: RicardoVeronica                          # the main title
 
-tagline: ISC, originario de Guadalajara Jalisco, enfocado en desarrollo web. Me gusta considerarme un hombre estoico y un programador pragmático   # it will display as the sub-title
+tagline: Sitio Web Personal   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
