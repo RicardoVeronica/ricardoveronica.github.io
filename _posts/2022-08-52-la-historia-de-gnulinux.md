@@ -5,8 +5,6 @@ categories: [linux, sistemas_operativos]
 tags: [linux, historia]
 ---
 
-# La historia de GNU/Linux
-
 ![Linux](https://miro.medium.com/max/1400/1*r7w0o1YDBhtWFAnxauCjkA.jpeg)
 _Photo by Wesley Pribadi on Unsplash_
 
