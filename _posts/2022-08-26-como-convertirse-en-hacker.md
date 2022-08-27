@@ -1,6 +1,6 @@
 ---
 title: Como convertise en Hacker
-date: 2022-08-25 10:30:00 +0800
+date: 2022-08-26 10:30:00 +0800
 categories: [linux, seguridad_informatica]
 tags: [linux, seguridad_informatica]
 ---
