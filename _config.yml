@@ -35,7 +35,7 @@ github:
   username: RicardoVeronica             # change to your github username
 
 twitter:
-  username: alt_dev_            # change to your twitter username
+  username: RicardoVeronik            # change to your twitter username
 
 social:
   # Change to your full name.
@@ -44,7 +44,7 @@ social:
   email: ricardo_veronica.duran@hotmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/alt_dev_      # change to your twitter homepage
+    - https://twitter.com/RicardoVeronik      # change to your twitter homepage
     - https://github.com/RicardoVeronica       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
