@@ -1,6 +1,6 @@
 ---
 title: En el principio… fue la línea de comandos
-date: 2022-08-27 11:30:00 +0800
+date: 2023-07-27 11:30:00 +0800
 categories: [linux, linea_de_comandos]
 tags: [linux, linea_de_comandos]
 ---

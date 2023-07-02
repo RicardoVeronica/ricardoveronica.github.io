@@ -1,6 +1,6 @@
 ---
 title: Tú sabes ¿qué es la programación?
-date: 2022-08-28 10:30:00 +0800
+date: 2023-07-28 10:30:00 +0800
 categories: [programacion, tutoriales]
 tags: [programacion, tutoriales]
 ---

@@ -1,6 +1,6 @@
 ---
 title: La historia de GNU/Linux
-date: 2022-08-25 12:30:00 +0800
+date: 2023-07-25 12:30:00 +0800
 categories: [linux, sistemas_operativos]
 tags: [linux, historia]
 ---

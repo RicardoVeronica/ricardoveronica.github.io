@@ -5,7 +5,7 @@ theme: jekyll-theme-chirpy
 
 # Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
 # and doesn't have a custom domain.
-baseurl: ''
+baseurl: '/PROJECT_NAME'
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
@@ -23,7 +23,7 @@ timezone: America/Mexico_City
 
 title: RicardoVeronica                          # the main title
 
-tagline: Sitio Web Personal   # it will display as the sub-title
+tagline: My sitio Web Personal   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
@@ -83,7 +83,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://media-exp1.licdn.com/dms/image/C4E03AQFREGTMdL0rjg/profile-displayphoto-shrink_800_800/0/1643132060994?e=1667433600&v=beta&t=iI9jM5f2oM0WbL0BlXv9rtlROO-v-u4M7a0UaGEOGdI
+avatar: ./assets/lib/ricardoVeronica.jpeg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
